@@ -1,0 +1,78 @@
+"""print "hello"
+phone= "(202) 456-7890"
+print phone [1:4]
+first_name = "Synta"
+age = "39"
+print "My name is {0} and my age is {1}". format (first_name, age)
+phone="(202)-555-9876"
+print "Your number is: [0]".format (phone)
+print "Local: {0}" .format (phone [4:])
+print "Domestic: {0}" .format (phone [0:])
+phone = "+1-202-555-9876"
+print "International: {0}".format (phone [0:])
+phone = "202-555-9876"
+print "Domestic: ({0}){1})"
+email_address = "shannon@hearmecode.com"
+print email_address.find ("@")
+twitter = "@hearmecode"
+if gender == 'f':
+    print "Welcome to Hear Me Code!"
+"""
+students = 100
+capacity = 50
+"""
+if students < capacity:
+    print "Keep recruiting"
+else:
+    print "End ticket signups"
+
+goal = 126
+current_volunteers =95
+
+if goal > current_volunteers:
+    print "You are behind, work on recruiting!"
+"""
+twitter = "@hearmecode"
+print "Welcome to Hear Me Code!"
+print 'No boys allowed!'
+ 
+
+print twitter
+if students < capacity:
+    print "Keep recruiting"
+else:
+    print "End ticket signups"
+
+goal = 126
+current_volunteers =95
+
+if goal > current_volunteers:
+    print "You are behind, work on recruiting!"
+
+elif goal < currrent_volunteers:
+    difference - current_volunteers - goal
+    print "You are above your goal! You [0] more volunteers than you need." .format (difference)
+
+article = '...'
+
+men_quoted = article.count('he said')
+women_quoted = article. count('she said')
+"""
+
+if women_quoted == 0 or men_quoted > women_quoted *2:
+    print """No women were quoted,
+    or twice as many quotes came from men"""
+else:
+    print "Women and men were quoted equally"
+"""
+# Goal #1: Write a new version of the PB&J program that uses a while loop. Print "Making sandwich #" and the number of the sandwich until you are out of bread, peanut butter, or jelly.
+# Example:
+bread = 6
+peanut_butter = 5
+jelly = 4
+
+print "Making sandwich #1"
+
+
+
+    
